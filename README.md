@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · jsAToS0U -->
-## Notification 1/2
-Round: Round 1
-To: pattyannjack@aol.com, pattybarbre@mail.com
-At: 2026-09-16 19:29:48
-Id: jsAToS0U
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: pattydeloney@adelphia.net, pattyhill1275@yahoo.com
+At: 2026-09-16 19:30:02
+Id: luMnfu90
